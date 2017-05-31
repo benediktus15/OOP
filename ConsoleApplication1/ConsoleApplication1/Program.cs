@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game_OOP
+namespace ConsoleApplication1
 {
-    class Player
+    class Program
     {
+        static void Main(string[] args)
+        {
+
+        }
     }
 }
